@@ -91,7 +91,8 @@ function loksabhalive() {
 }
 
 function resume() {
-  open(
-    "https://drive.google.com/file/d/1llfXFyEGJ_GwRqmJCMiBXTC1a-Ec0YFv/view?usp=sharing"
-  );
+  // open(
+  //   "https://drive.google.com/file/d/1llfXFyEGJ_GwRqmJCMiBXTC1a-Ec0YFv/view?usp=sharing"
+  // );
+  window.open('https://drive.google.com/file/d/1llfXFyEGJ_GwRqmJCMiBXTC1a-Ec0YFv/view?usp=sharing', '_blank');
 }
