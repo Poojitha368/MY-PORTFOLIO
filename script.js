@@ -72,7 +72,7 @@ function croplive() {
   open("https://crop-disease-recognition-ky2zaryzwy5ysvgh2hajba.streamlit.app/");
 }
 function edugrader() {
-  open("https://github.com/Poojitha368/Edugrader-gemini-api");
+  open("https://github.com/Poojitha368/EdugraderAI");
 }
 function edugraderlive() {
   open("https://github.com/Poojitha368/Edugrader-gemini-api");
