@@ -75,7 +75,7 @@ function edugrader() {
   open("https://github.com/Poojitha368/EdugraderAI");
 }
 function edugraderlive() {
-  open("https://github.com/Poojitha368/Edugrader-gemini-api");
+  open("https://edugraderai.onrender.com");
 }
 function customer() {
   open("https://github.com/Poojitha368/customer-segmentation");
