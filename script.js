@@ -94,5 +94,5 @@ function resume() {
   // open(
   //   "https://drive.google.com/file/d/1llfXFyEGJ_GwRqmJCMiBXTC1a-Ec0YFv/view?usp=sharing"
   // );
-  window.open('https://drive.google.com/file/d/10WQUY2NtgSoRXKEyecT-t6R6jFRVtWfN/view?usp=sharing', '_blank');
+  window.open('https://drive.google.com/file/d/1AUAFHRUNG6AtjOQpXSa65VNcHsfpLU9J/view?usp=sharing', '_blank');
 }
